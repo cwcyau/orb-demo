@@ -198,10 +198,10 @@ const updates = [
 ];
 
 const stats = [
-  { value: 'About', label: 'national hub', target: 'about' },
-  { value: 'Examples', label: 'exemplar programmes', target: 'platform' },
-  { value: 'Models', label: 'model families', target: 'models' },
-  { value: 'Users', label: 'user routes', target: 'access' },
+  { value: 'About', label: 'Information about ORB', target: 'about' },
+  { value: 'Ask', label: 'Design an experiment', target: 'ask-orb' },
+  { value: 'Models', label: 'Search for models', target: 'models' },
+  { value: 'Access', label: 'Request models and data', target: 'access' },
 ];
 
 const filters = ['All', 'Cancer', 'Inflammation', 'CNS', 'Metabolism', 'Engineering'];
